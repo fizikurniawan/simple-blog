@@ -1,0 +1,11 @@
+category
+-name: text
+
+
+Tag
+n-n
+=>cari dokumentasi has_and_belong_to_many
+has_many_through
+
+
+user id gak usah,  user login nya
